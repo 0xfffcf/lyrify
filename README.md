@@ -16,7 +16,7 @@
 
 > # Why?
 
-* I made this project to learn more about api with nextjs.
+* I made this project to learn more about api with nextjs. It is far frome being perfect too.
 * It doesn't have a great UI design for the reason above.
 
 <br/>

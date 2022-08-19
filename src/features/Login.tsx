@@ -16,7 +16,15 @@ const Login = () => {
           lyrify
         </Heading>
 
-        <Box w='30em' h='40em' ml='20em' bgColor='blackAlpha.400'>
+        <Box
+          w='30em'
+          h='40em'
+          ml='20em'
+          borderRadius='1em'
+          border='2px'
+          borderColor='blue.400'
+          overflow='hidden'
+        >
           <Image
             src='/lyrify.png'
             width='30em'
